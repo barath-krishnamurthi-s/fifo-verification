@@ -314,13 +314,9 @@ The verification environment can be extended with:
 
 ## 👨‍💻 Author
 
-**Harish K.**
+**.**
 
 Electronics and Communication Engineering  
 Interested in **VLSI, Embedded Systems, Digital Design and Verification**
 
 ---
-
-## 📜 License
-
-This project is intended for educational and academic purposes.
