@@ -312,11 +312,3 @@ The verification environment can be extended with:
 
 ---
 
-## 👨‍💻 Author
-
-**.**
-
-Electronics and Communication Engineering  
-Interested in **VLSI, Embedded Systems, Digital Design and Verification**
-
----
